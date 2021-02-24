@@ -33,6 +33,14 @@ superuser: true
 user_groups:
   - Founder
 ---
-My career starts within the academy sector then move to technology field. Such a transition took me lots of time and effort due to lack of mentoring in early days. 
+English:
 
-In order to help many avoid the similar situation, I started this community to promote the mentorship between exprerienced practitioner and asipiring newcomer.
+My career starts within the academy sector then move to technology field. Such a transition took me lots of time and effort, which could be avoidable if I have enough information and mentoring.
+
+Lessons learned, I built this community to promote the mentorship between exprerienced practitioner and asipiring newcomer to help people build an solid carreer.  
+
+Tiếng Việt:
+
+Nghề nghiệp của tôi bắt đầu trong ngành giáo dục và sau đó chuyển hướng qua mảng công nghệ. Quá trình chuyển đổi đã tiêu tốn của tôi rất nhiều thời gian và công sức, mà đáng ra có thể tránh được nếu như tôi có đủ thông tin và được cố vấn.
+
+Trải qua nhiều bài học kinh nghiệm, tôi xây dựng cộng đồng này để xúc tiến kết việc mentor giữa người có kinh nghiệm trong nghề và người mới bắt đầu sự nghiệp, qua đó giúp mọi người xây dựng sự nghiệp vững chắc.
