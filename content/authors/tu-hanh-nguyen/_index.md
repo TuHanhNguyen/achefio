@@ -30,8 +30,7 @@ education:
       institution: Ton Duc Thang University
       year: 2014
 superuser: true
-user_groups:
-  - Founder
+user_groups: []
 ---
 English:
 
